@@ -4,9 +4,9 @@
 
 ## Live Links
 
-- **Frontend (Vercel)**: `[Insert Link Here]`
-- **Backend API (Render)**: `[Insert Link Here]`
-- **Demo Video**: `[Insert Link Here]`
+- **Frontend (Vercel)**: `https://taskmanagement-webapplication.vercel.app/`
+- **Backend API (Render)**: `https://taskmanagement-webapplication.onrender.com`
+- **Demo Video**: https://drive.google.com/file/d/1GZS6gtE8RRyaaNVNeszXgPGqUh8vpiOL/view?usp=sharing
 
 ---
 
